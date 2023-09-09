@@ -1,0 +1,18 @@
+# Astro Runtime includes the following pre-installed providers packages: https://docs.astronomer.io/astro/runtime-image-architecture#provider-packages
+apache-airflow-providers-amazon==8.6.0
+astronomer-providers==1.17.3
+astro-sdk-python==1.7.0
+apache-airflow-providers-celery==3.3.3
+apache-airflow-providers-cncf-kubernetes==7.5.0
+apache-airflow-providers-common-sql==1.7.1
+apache-airflow-providers-datadog==3.3.2
+apache-airflow-providers-elasticsearch==5.0.1
+apache-airflow-providers-ftp==3.5.1
+apache-airflow-providers-google==10.7.0
+apache-airflow-providers-http==4.5.1
+apache-airflow-providers-imap==3.3.1
+apache-airflow-providers-microsoft-azure==6.3.0
+openlineage-airflow==1.1.0
+apache-airflow-providers-postgres==5.6.0
+apache-airflow-providers-redis==3.3.1
+apache-airflow-providers-sqlite==3.4.3
